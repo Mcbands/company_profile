@@ -1,0 +1,24 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.footer-links {
+  padding-left: 10;
+}
+
+.footer-links {
+  padding: 10px;
+}
+
+.footer-links {
+}
+
+.footer-links:hover {
+  color: var(--bs-white);
+}
+
+.container {
+  flex-wrap: wrap;
+  height: 10;
+}
+
